@@ -30,9 +30,9 @@ This repo is basically my digital notebook for class. I'll be using it to:
                                                                                                                                                                                                  
 ___                                                                                                                                                                                              
                                                                                                                                                                                                  
-                                                                                       # 📂 What's inside....?                                                                                    
+                                                                        # 📂 What's inside....?                                                                                    
 If you look into the `assignments` folder, you'll find my latest work :D                                                                                                                         
                                                                                                                                                                                                  
 ---                                                                                                                                                                                              
                                                                                                                                                                                                  
-                                           * Thanks for checking out my progress! * 🚀                                                                                                            
+                              * Thanks for checking out my progress! * 🚀                                                                                                            
