@@ -25,7 +25,7 @@ This repo is basically my digital notebook for class. I'll be using it to:
 * Figure out why my code works at 2:00 AM but not at 2:00 PM (lol)                                                                                                                               
                                                                                                                                                                                                  
  Buidling on the last point, my ultimate goal for this course is to know what it is I am doing when I code,                                                                                      
- what it means, why it works or why it doesn't work, and then be able to fix that.                                                                                                               
+ what it means, why it works or why it doesn't work, and then be able to fix that.                             🐑 ——— 🐑 ——— 🐑 ——— 🐑
                                                                                                                                                                                                  
 ___                                                                                                                                                                                              
                                                                                                                                                                                                  
