@@ -3,8 +3,7 @@
 # Hi! I'm Sopaluck Pimpamote 👋 🇹🇭/🇳🇴
 ## You have reached my GitHub Repository!
  > ### But you can call me *Ohm* :) ###                                                                                                                                                          
->                                                                                                                                                                                                
- > (Like Ohm's Law if you know what that is >.<)                                                                                                                                                 
+                                                                                                                                                
 ## 👤 Who am I?                                                                                                                                                                                   
 Welcome to my class Github repository for Tech Basics 1!                                                                                                                                                      
                                                                                                                                                                                                  
