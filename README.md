@@ -11,7 +11,7 @@ I am a total beginner in the world of coding, currently figuring out what all th
                                                                                                                                                                                                  
 > **Fun fact about me:** I lived on a sheep farm for a year, and ever since then, sheep has become my absolute favorite animal 🐑                                                                 
                                                                                                                                                                                                  
-<img src="https://raw.githubusercontent.com/juroimoh/techBasics1_Sopaluck_Pimpamote/main/miscellaneous/meme.jpeg" width="225" align="right" style="margin-left: 5px; margin-top: 150px;">
+<img src="miscellaneous/meme.jpeg" width="225" align="right" style="margin-left: 5px; margin-top: 150px;">
 
 ## 📊 My Current Stack:                                                                                                                                                                           
 * **Languages:** Python (Basic/Beginner), Markdown                                                                                                                                               
