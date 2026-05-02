@@ -1,6 +1,6 @@
 ### techBasics1_Sopaluck_Pimpamote
                                                                                                                                                                                                  
-# Hi! I'm Sopaluck Pimpamote 👋 🇹🇭/🇳🇴
+# Hi! I'm Sopaluck Pimpamote 👋
 ## You have reached my GitHub Repository!
  > ### But you can call me *Ohm* :) ###                                                                                                                                                          
                                                                                                                                                 
