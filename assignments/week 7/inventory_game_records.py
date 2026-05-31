@@ -1,4 +1,5 @@
 # Assignment 7 additions:
+# Claude AI aided in laying out an outline for what I needed to code, but the following outline I wrote myself:)
 
 # At the top
 # - imported csv and import datetime (libraries)
