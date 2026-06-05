@@ -52,7 +52,6 @@ class DVD:
         tinted = self.tint()
         screen.blit(tinted, (self.pos_x, self.pos_y))
 
-
 pygame.init()
 
 screen = pygame.display.set_mode((SCREEN_WIDTH, SCREEN_HEIGHT))
